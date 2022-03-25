@@ -1,0 +1,11 @@
+{
+  "description": "summit's Website",
+  "repo": "https://github.com/SumitXop",
+  "owner": {
+    "username": "SumitXop",
+    "email": "iamrussiangod@gmail.com"
+  },
+  "record": {
+    "CNAME": "SumitXop.pages.dev"
+  }
+}
